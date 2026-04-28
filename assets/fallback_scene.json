@@ -1,0 +1,23 @@
+{
+  "scene_id": "sc_001",
+  "environment": {
+    "type": "desert",
+    "time_of_day": "golden_hour"
+  },
+  "lighting": {
+    "preset": "cinematic_sunset",
+    "intensity": 0.85
+  },
+  "camera": {
+    "shot_type": "wide",
+    "angle": "low"
+  },
+  "effects": [
+    { "type": "dust", "density": "medium" }
+  ],
+  "render_settings": {
+    "resolution": "1920x1080",
+    "samples": 64
+  },
+  "asset_refs": []
+}

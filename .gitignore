@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Project-specific generated outputs
+runs/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor/IDE directories
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
